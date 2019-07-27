@@ -15,3 +15,5 @@ Chances are there will be a section devoted on it with an explanation or video c
 An IDE with Java library and tools. Recommend either Eclipse, NetBeans or Visual Studio IDE.
 
 I personally am using Eclipse and NetBeans
+
+``` Also because I like using this, do msg or put an issue on things I may be missing or what not...```
